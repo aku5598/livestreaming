@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\142b89ff72734fe6f7b60f114204fed3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a26609fb57f7307bc39db83ac426ef6c\AndroidManifest.xml:2:1-11:12
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e0349fd7dfa11ef23ef8435ecd7ecc94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e989267c523df259617a5177ffc007f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\36d4b4bb2257c583cb1fcd019021a654\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b30dcdaf502c08c59ba4535d12348af8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c56d76cde818a3bc7e642059e2268217\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bddbac5bd5c642d8fbc5cda05bc2e572\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a3715d3c3508ba6f36ee1cc95f3c6be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9959d49fc34776225f964213da11aab4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac19861ca69885c51cc9ff38210d5acd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a8792f04f6fbf0bd4254e37bbd521ae\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:13:5-67
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:5:5-65
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:11:5-65
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:6:5-71
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:12:5-71
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.camera.any
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:11:5-13:35
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:15:5-17:35
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:12:9-51
+uses-feature#android.hardware.camera
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:14:5-16:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:18:5-20:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:15:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:17:5-19:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:21:5-23:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:18:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:20:5-22:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:24:5-26:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:21:9-53
+uses-feature#android.hardware.camera.front
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:23:5-25:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:27:5-29:36
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:24:9-53
+application
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:27:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a26609fb57f7307bc39db83ac426ef6c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a26609fb57f7307bc39db83ac426ef6c\AndroidManifest.xml:9:5-20
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:31:5-32:19
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:31:5-32:19
+	android:supportsRtl
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:30:9-41
+	android:roundIcon
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:31:9-54
+	android:icon
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:33:9-40
+activity#com.example.mybroadcastingapp.CameraActivity
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:34:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.example.mybroadcastingapp.PlayerActivity
+ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:41:9-61
+	android:name
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml:41:19-49
+uses-sdk
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\142b89ff72734fe6f7b60f114204fed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\142b89ff72734fe6f7b60f114204fed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a26609fb57f7307bc39db83ac426ef6c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a26609fb57f7307bc39db83ac426ef6c\AndroidManifest.xml:5:5-7:41
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:7:5-9:41
+MERGED from [:libbambuser-0.9.13] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\libbambuser-0.9.13.aar\74337d61c5689d4f3962a8fafdeca92d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e0349fd7dfa11ef23ef8435ecd7ecc94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e0349fd7dfa11ef23ef8435ecd7ecc94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e989267c523df259617a5177ffc007f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e989267c523df259617a5177ffc007f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\36d4b4bb2257c583cb1fcd019021a654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\36d4b4bb2257c583cb1fcd019021a654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b30dcdaf502c08c59ba4535d12348af8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b30dcdaf502c08c59ba4535d12348af8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c56d76cde818a3bc7e642059e2268217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c56d76cde818a3bc7e642059e2268217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bddbac5bd5c642d8fbc5cda05bc2e572\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bddbac5bd5c642d8fbc5cda05bc2e572\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a3715d3c3508ba6f36ee1cc95f3c6be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a3715d3c3508ba6f36ee1cc95f3c6be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9959d49fc34776225f964213da11aab4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9959d49fc34776225f964213da11aab4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac19861ca69885c51cc9ff38210d5acd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac19861ca69885c51cc9ff38210d5acd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a8792f04f6fbf0bd4254e37bbd521ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aayush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a8792f04f6fbf0bd4254e37bbd521ae\AndroidManifest.xml:20:5-44
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android App\Mybroadcastingapp\app\src\main\AndroidManifest.xml
